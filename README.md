@@ -76,5 +76,7 @@ Each dimension scored from 1–4 based on quantiles or domain rules:
 
 ## 👨‍💻 Author  
 **Lukman Fathoni**  
+Linkedin : https://www.linkedin.com/in/lukmanfthoni
 📧 Email: [lukman.fathoni.lf@gmail.com]  
+
 
